@@ -9,6 +9,7 @@
 
 > **Disclaimer**: A good chunk of this code was initially written with AI assistance using Cursor. I later pledged to not use AI in future contributions, but due to life circumstances causing my time to be incredibly limited now, I made the difficult decision to resume using AI assistance in order to prevent Hackdex from going dormant and becoming neglected.
 
+
 ## What is Hackdex?
 
 Hackdex is a community hub for discovering and sharing Pokémon romhack patches. Players link their own legally obtained base roms once, then easily patch locally in the browser and download the patched rom. Hackdex only stores patches, screenshots, and metadata—never any roms—so distribution stays practical without any of the legal pitfalls. Creators get a consistent place to publish, version, and present their projects.
